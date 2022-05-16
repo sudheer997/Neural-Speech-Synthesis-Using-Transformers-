@@ -1,3 +1,7 @@
+"""
+CODE TAKEN FROM
+https://github.com/soobinseo/Transformer-TTS
+"""
 from preprocess import get_post_dataset, DataLoader, collate_fn_postnet
 from network import *
 from tensorboardX import SummaryWriter

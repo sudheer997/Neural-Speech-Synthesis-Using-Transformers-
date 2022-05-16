@@ -1,3 +1,8 @@
+"""
+CODE TAKEN FROM
+https://github.com/soobinseo/Transformer-TTS
+"""
+
 from module import *
 from utils import get_positional_table, get_sinusoid_encoding_table
 import hyperparams as hp

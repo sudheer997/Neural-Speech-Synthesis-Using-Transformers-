@@ -1,3 +1,7 @@
+"""
+CODE TAKEN FROM
+https://github.com/soobinseo/Transformer-TTS
+"""
 import tensorflow as tf
 
 from Transformer_tts.model.transformer_utils import positional_encoding

@@ -1,3 +1,8 @@
+"""
+CODE TAKEN FROM
+https://github.com/soobinseo/Transformer-TTS
+"""
+
 import torch.nn as nn
 import torch as t
 import torch.nn.functional as F

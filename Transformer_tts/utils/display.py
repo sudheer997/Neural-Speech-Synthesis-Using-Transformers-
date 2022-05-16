@@ -1,3 +1,7 @@
+"""
+CODE TAKEN FROM
+https://github.com/soobinseo/Transformer-TTS
+"""
 import io
 
 import matplotlib.pyplot as plt

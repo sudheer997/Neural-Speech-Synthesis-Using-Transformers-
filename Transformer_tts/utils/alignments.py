@@ -1,3 +1,7 @@
+"""
+CODE TAKEN FROM
+https://github.com/soobinseo/Transformer-TTS
+"""
 import tensorflow as tf
 
 from utils.metrics import attention_score

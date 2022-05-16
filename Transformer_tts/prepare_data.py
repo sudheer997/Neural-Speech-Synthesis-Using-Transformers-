@@ -1,3 +1,7 @@
+"""
+CODE TAKEN FROM
+https://github.com/soobinseo/Transformer-TTS
+"""
 import numpy as np
 import pandas as pd
 from torch.utils.data import Dataset, DataLoader

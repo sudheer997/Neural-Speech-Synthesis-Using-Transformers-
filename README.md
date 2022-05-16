@@ -25,6 +25,8 @@ indistinguishable from the human voice. The TTS system mainly focuses on the fol
 * Design and implement the TTS system that can read out the text at any speed rate that the user specifies.
 * Finally, built web-app using StreamLit for this TTS system.
 
+#### Transformer TTS implementation taken from : https://github.com/soobinseo/Transformer-TTS
+
 ### Setting up project environment:
 * Create new enviroment using annaconda or miniconda
 ```
