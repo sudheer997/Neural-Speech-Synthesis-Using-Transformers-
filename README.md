@@ -2,6 +2,8 @@
 
 Reference Paper: [Neural Speech Synthesis Using Transformers](https://arxiv.org/pdf/1809.08895.pdf)
 
+Final Report: [report](Project%20Report%20ISE%20244.pdf)
+
 ### Problem Definition:
 The problem I have implemented over the course of this project is based on Text-to-Speech (TTS). Text to Speech had 
 gained a lot of prominence in various fields and had solved many real-world problems that we encounter in daily life. 
